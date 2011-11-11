@@ -20,11 +20,14 @@ Gem::Specification.new do |s|
     ".document",
     ".rspec",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.markdown",
     "Rakefile",
     "VERSION",
+    "lib/action_view/template/handlers/markdown.rb",
     "lib/rails_markdown.rb",
+    "rails_markdown.gemspec",
     "spec/rails_markdown_spec.rb",
     "spec/spec_helper.rb"
   ]
